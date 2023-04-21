@@ -55,3 +55,13 @@ Main
     - standards
     - regulations
     - docuemnts
+
+## Old CSS
+
+```
+    linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
